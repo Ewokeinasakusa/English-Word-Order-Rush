@@ -331,7 +331,7 @@ function App() {
   return (
     <div style={styles.container}>
       <h1 style={styles.title}>
-        English Word Order Rush
+        Word Order Rush
       </h1>
 
       <div style={styles.level}>
